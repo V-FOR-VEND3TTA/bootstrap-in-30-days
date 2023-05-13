@@ -1,7 +1,7 @@
 # Bootstrap in 30 Days
 A devastatingly serious attempt to learn Bootstrap in 30 days
 
-Here's a study schedule for learning Bootstrap from beginner to expert in one month:
+Here's a study schedule for learning Bootstrap from beginner to expert in one month. It is a mixture of learning the theory and applying the theory, one concept at a time:
 
 ### Week 1: Basic Concepts
 
